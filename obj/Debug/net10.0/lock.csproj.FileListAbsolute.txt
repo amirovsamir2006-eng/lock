@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\lock\bin\Debug\net10.0\lock.exe
+C:\Users\admin\Desktop\lock\bin\Debug\net10.0\lock.deps.json
+C:\Users\admin\Desktop\lock\bin\Debug\net10.0\lock.runtimeconfig.json
+C:\Users\admin\Desktop\lock\bin\Debug\net10.0\lock.dll
+C:\Users\admin\Desktop\lock\bin\Debug\net10.0\lock.pdb
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\lock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\lock.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\lock.AssemblyInfo.cs
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\lock.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\lock.dll
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\refint\lock.dll
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\lock.pdb
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\lock.genruntimeconfig.cache
+C:\Users\admin\Desktop\lock\obj\Debug\net10.0\ref\lock.dll
